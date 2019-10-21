@@ -47,9 +47,9 @@
   47. C Program to Multiply to Matrix Using Multi-dimensional Arrays
   48. C Program to Find Transpose of a Matrix
   49. C Program to Multiply two Matrices by Passing Matrix to a Function
-    50. C Program to Access Array Elements Using Pointer
-    51. C Program Swap Numbers in Cyclic Order Using Call by Reference
-    52. C Program to Find Largest Number Using Dynamic Memory Allocation
-    53. C Program to Find the Frequency of Characters in a String
-    54. C Program to Count the Number of Vowels, Consonants and so on
-    55. C Program to Remove all Characters in a String Except Alphabets
+   50. C Program to Access Array Elements Using Pointer
+   51. C Program Swap Numbers in Cyclic Order Using Call by Reference
+   52. C Program to Find Largest Number Using Dynamic Memory Allocation
+   53. C Program to Find the Frequency of Characters in a String
+   54. C Program to Count the Number of Vowels, Consonants and so on
+   55. C Program to Remove all Characters in a String Except Alphabets
