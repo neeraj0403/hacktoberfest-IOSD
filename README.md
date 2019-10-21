@@ -1,12 +1,12 @@
-1.  "Hello, World!" Program
-  2.  Program to Print an Integer (Entered by the User)
-  3.  Program to Add Two Integers
-  4.  Program to Multiply two Floating Point Numbers
-  5. Program to Find ASCII Value of a Character
-  6  Program to Compute Quotient and Remainder
-  7  Program to Find the Size of int, float, double and char
-  8.  Program to Demonstrate the Working of Keyword long
-  9. Program to Swap Two Numbers
+1.     "Hello, World!" Program
+  2.   Program to Print an Integer (Entered by the User)
+  3.   Program to Add Two Integers
+  4.   Program to Multiply two Floating Point Numbers
+  5.   Program to Find ASCII Value of a Character
+  6    Program to Compute Quotient and Remainder
+  7    Program to Find the Size of int, float, double and char
+  8.   Program to Demonstrate the Working of Keyword long
+  9.   Program to Swap Two Numbers
   10.  Program to Check Whether a Number is Even or Odd
   11.  Program to Check Whether a Character is Vowel or Consonant
   12.  Program to Find the Largest Number Among Three Numbers
@@ -28,7 +28,7 @@
   28.  Program to Check Whether a Number is Prime or Not
   29.  Program to Check Armstrong Number
   30.  Program to Display Factors of a Number
-  31. Program to Make a Simple Calculator Using switch...case
+  31.  Program to Make a Simple Calculator Using switch...case
   32.  Program to Display Prime Numbers Between Intervals Using Function
   33.  Program to Check Prime or Armstrong Number Using User-defined Function
   34.  Program to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
@@ -48,8 +48,8 @@
   48.  Program to Find Transpose of a Matrix
   49.  Program to Multiply two Matrices by Passing Matrix to a Function
    50. Program to Access Array Elements Using Pointer
-   51.  Program Swap Numbers in Cyclic Order Using Call by Reference
-   52.  Program to Find Largest Number Using Dynamic Memory Allocation
-   53.  Program to Find the Frequency of Characters in a String
-   54.  Program to Count the Number of Vowels, Consonants and so on
-   55.  Program to Remove all Characters in a String Except Alphabets
+   51. Program Swap Numbers in Cyclic Order Using Call by Reference
+   52. Program to Find Largest Number Using Dynamic Memory Allocation
+   53. Program to Find the Frequency of Characters in a String
+   54. Program to Count the Number of Vowels, Consonants and so on
+   55. Program to Remove all Characters in a String Except Alphabets
