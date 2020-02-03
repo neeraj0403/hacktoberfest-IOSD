@@ -1,6 +1,6 @@
 1.    "Hello, World!" Program
   2.   Program to Print an Integer (Entered by the User)
-  3.   Program to Add Two 
+  3.   Program to Add Two Integer
   4.   Program to Multiply two Floating Point Numbers
   5.   Program to Find ASCII Value of a Character
   6    Program to Compute Quotient and Remainder
