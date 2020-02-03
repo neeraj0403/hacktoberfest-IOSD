@@ -50,7 +50,7 @@
    50. Program to Access Array Elements Using Pointer
    51. Program Swap Numbers in Cyclic Order Using Call by Reference
    52. Program to Find Largest Number Using Dynamic Memory Allocation
-   53. Program to Find the Frequency of Characters in a String
+   53. Program to Find the Frequency of Characters in a string
    54. Program to Count the Number of Vowels, Consonants and so on
    55. Program to Remove all Characters in a String Except Alphabets
    56.  Program to Multiply two Matrices by Passing Matrix
