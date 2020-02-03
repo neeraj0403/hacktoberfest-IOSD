@@ -53,3 +53,4 @@
    53. Program to Find the Frequency of Characters in a String
    54. Program to Count the Number of Vowels, Consonants and so on
    55. Program to Remove all Characters in a String Except Alphabets
+   56.  Program to Multiply two Matrices by Passing Matrix
